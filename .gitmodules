@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "algorithmia"]
 	path = algorithmia
 	url = https://github.com/algorithmiaio/algorithmia-r
-	shallow = true
-	registered = true
